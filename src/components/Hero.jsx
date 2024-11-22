@@ -123,9 +123,6 @@ function Hero({setProducts, count, setCount, opened, setOpened}) {
                     </Controls>
                 </Details>
             </Product>
-            <div className="attr" style={{textAlign: 'center', marginTop: '20px'}}>
-                <a href="https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6" style={{color: 'black'}} target={'_blank'}>Frontend Mentor Challenge Link</a>
-            </div>
         </Section>
     </>
   )
